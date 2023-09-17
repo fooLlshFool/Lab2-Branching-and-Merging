@@ -17,10 +17,10 @@ last week came from there. If you are looking for challenges, definitely check i
 # TASK 0: Fork this repo
 
 Note: If you are in lab, your TA will share a different URL for you to fork from, so that you
-can make pull requests to that repo during the Task 3 activity during lab.
+can make pull requests to that repo during the Task 3 activity during the lab.
 
-During lab, you should not fork directly from
-TODO REPO URL. If you miss the lab and work on this after, please fork TODO REPO URL.
+During lab, you should not fork directly from https://github.com/CSC207-2023F-UofT/Lab2.
+If you miss the lab and work on this after, you should use this URL though.
 
 - [ ] Make a fork of this repo and clone a local copy (as you did in Lab 1).
   - Important: make sure to uncheck the option to only fork the main branch, as the repo
