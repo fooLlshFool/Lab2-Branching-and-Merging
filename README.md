@@ -2,7 +2,7 @@
 
 The main topic of this first lab activity is branching and merging in git.
 
-## Resources
+## Resources and Acknowledgements
 
 https://www.atlassian.com/git/tutorials/using-branches contains an excellent, detailed
 walkthrough of the steps we will be going through in the lab. We encourage you to use
@@ -13,6 +13,8 @@ The first coding part in this activity is (very loosely) based on a common probl
 problems posted on https://projecteuler.net/archives which is another interesting source of challenging
 programming problems. You might also recognize that the multiples of 3 and 5 problem from
 last week came from there. If you are looking for challenges, definitely check it out.
+
+The partial cake recipes are courtesy ChatGPT.
 
 # TASK 0: Fork this repo
 
