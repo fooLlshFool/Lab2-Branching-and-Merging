@@ -21,12 +21,12 @@ The partial cake recipes are courtesy ChatGPT.
 Note: If you are in lab, your TA will share a different URL for you to fork from, so that you
 can make pull requests to that repo during the Task 3 activity during the lab.
 
-During lab, you should not fork directly from https://github.com/CSC207-2023F-UofT/Lab2.
+During lab, you should not fork directly from https://github.com/CSC207-2024F-UofT/Lab2.
 If you miss the lab and work on this after, you should use this URL though.
 
 - [ ] Make a fork of this repo and clone a local copy (as you did in Lab 1).
-  - Important: make sure to uncheck the option to only fork the main branch, as the repo
-  contains some branches you will use in this lab.
+  - **Important**: make sure to uncheck the option to only fork the main branch, as the repo
+  contains two branches you will use later in this lab.
 
 # TASK 1: Your first branch
 
@@ -56,14 +56,14 @@ You should now see the changes you had made are also in the `main` branch.
   - Terminal: `git branch -d task_1`
 
 - [ ] Last step, we'll push our changes to the remote repository to share our work! (As we did in Lab 1.)
-  - we suggest you check off this last item, commit that change (just right on main is fine;
+  - we suggest you check off this last item, commit that change (just right on the main branch is fine;
   no need to branch for this little step), then push your code. Check GitHub to ensure you can
   see your changes.
 
 And that's it for Task 1! You might be wondering about how we are supposed to get someone else
-to review and approve our changes before we commit and push our changes to the main branch of
+to review and approve our changes before we push our changes to the main branch of
 our remote repository, since everything we just did was local. We'll explore how to do precisely
-that by pushing our branch to our remote repository and making a pull request shortly, but first,
+that by pushing our *branch* to our remote repository and making a **pull request** shortly, but first,
 we'll talk about merge conflicts and how to resolve them.
 
 Tip: In the Git tool window, you can open the `Console` tab to see the underlying git commands it
@@ -93,22 +93,22 @@ Now, you are almost ready to share your recipe with the remote!
 # TASK 3
 
 - [ ] Checkout a new branch called `task_3`.
-- [ ] Commit any changes that you want to `recipe.md` to improve the recipe.
+- [ ] Commit any changes that you want to `recipe.md` to further improve the recipe.
 - [ ] While still on the `task_3` branch, push your code to your remote repository on GitHub.
 - [ ] Go to GitHub and you will see an option to make a pull request to the original repo. Make
   a pull request and see that it shows up in the original repository that you forked.
 
 Since others will also be making pull requests, we won't *actually* accept any of them for now, but
-you'll get lots of practice with pull requests in the next task and throughout the rest of the course!
+you'll get lots of practice with pull requests in the next task and beyond!
 
 We're now ready to dive into a collaborative coding challenge.
 
-Proceed to the second lab activity!
+Proceed to the second lab activity on Quercus!
 
 ## Hints and Tips
 
 ### TASK 1 TODO: Hints
-- Hint 1: you only have to change one line of code
+- Hint 1: you only need to change one line of code
 - Hint 2: unlike Python, an int has a maximum value that it can store (see Integer.MAX_VALUE).
 also see https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html
 
@@ -123,7 +123,7 @@ ones have changes not yet committed.
 
 ### TASK 3 Additional Note
 
-When making a pull request, there may potentially be merge conflicts to resolve, as we had seen in the
+When making a pull request, there may potentially be merge conflicts to resolve, as we saw in the
 previous task. GitHub as additional information about how its interface helps facilitate resolving such
 conflicts:
 
