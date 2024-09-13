@@ -2,7 +2,8 @@ import org.junit.Test;
 
 import java.util.ArrayList;
 import java.util.List;
-
+// place your cursor over junit below and
+// click "Add 'Junit4' to classpath" then press OK to be able to run this test.
 import static org.junit.Assert.assertEquals;
 
 public class DataTypesTest {
